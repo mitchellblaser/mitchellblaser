@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitchellblaser" alt="mitchellblaser" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchellblaser&label=Profile%20views&color=0e75b6&style=flat" alt="mitchellblaser" /> </p>
-
 - 🔭 I’m currently working on [DashPlus](https://github.com/mitchellblaser/dashplus) and [FRC](https://github.com/icrobotics-team5584/frc)
 
 <h3 align="left">Languages and Tools:</h3>
