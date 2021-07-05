@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitch</h1>
-<h3 align="center">I write code for FRC Team 5584, and make other random utilities for others to use :)</h3>
+<h3 align="center">I write code for FRC Team 5584, and do other cool stuff whenever I've got free time :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitchellblaser" alt="mitchellblaser" /></a> </p>
 
